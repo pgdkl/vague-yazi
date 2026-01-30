@@ -10,10 +10,12 @@ Add the flavor.toml and tmtheme.xml files in ~/.config/yazi/flavors/vague.yazi/
 
 The directory structure should be this:
 
+```
 ~/.config/yazi/
 ├── flavors/
 │   ├── vague.yazi/
 └── theme.toml
+```
 
 To set it as your dark flavor, change the content of your `theme.toml` to:
 
