@@ -11,7 +11,7 @@
 - Using Yazi's plugin manager:
 
     ```
-    ya pkg add vague-theme/vague-yazi
+    ya pkg add vague-theme/vague
     ```
 
 - Manually
